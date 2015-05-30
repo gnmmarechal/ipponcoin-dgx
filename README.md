@@ -1,0 +1,2 @@
+# ipponcoin
+Scrypt Cryptocurrency
